@@ -2,7 +2,7 @@
   "name": "weather-appp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/bhavanadasari5402/kraftshala-assignment",
+  "homepage": "homepage": "https://bandarusampath.github.io/ClimaCast",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -26,6 +26,12 @@
     ]
   },
   "devDependencies": {
-    "ajv": "^7.2.4"
+    "ajv": "^7.2.4",
+    "gh-pages": "^6.3.0",
+    "predeploy": "npm run build",
+"deploy": "gh-pages -d build"
+
+
+  
   }
 }
