@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ClimaCast/static/css/main.8542b84f.css",
+    "main.js": "/ClimaCast/static/js/main.88a2dce3.js",
+    "index.html": "/ClimaCast/index.html",
+    "main.8542b84f.css.map": "/ClimaCast/static/css/main.8542b84f.css.map",
+    "main.88a2dce3.js.map": "/ClimaCast/static/js/main.88a2dce3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8542b84f.css",
+    "static/js/main.88a2dce3.js"
+  ]
+}
